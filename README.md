@@ -1,6 +1,6 @@
-# vuefirebase
+# Vue + Firebase
 
-> Autenticación básica con Vue 2 y Firebase + CRUD Básico
+> Autenticación básica con Vue 2 y Firebase + CRUD
 
 ## Build Setup
 
