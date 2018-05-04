@@ -1,7 +1,7 @@
 {
   "name": "vuefirebase",
   "version": "1.0.0",
-  "description": "Vue 2 + Firebase: How to build a Vue app with Firebase authentication system in 15 minutes",
+  "description": "Autenticación básica con Vue 2 y Firebase + CRUD Básico",
   "author": "John F. Mandón <johfermq@hotmail.com>",
   "private": true,
   "scripts": {
